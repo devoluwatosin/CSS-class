@@ -1,0 +1,46 @@
+
+h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 200%;
+  font-variant: small-caps;
+  font-style: italic;
+  font-stretch: expanded;
+  border: 5px solid purple;
+  border-radius: 20px;
+  border-style: initials;
+  background-color: purple;
+  text-align: center;
+}
+.image{
+  cursor: pointer;
+  text-align: center;
+}
+.list{
+  margin-top: 50px;
+  list-style-type: lower-roman;
+  text-transform: capitalize;
+}
+.history{
+  text-decoration: underline;
+  text-transform: capitalize;
+  margin-left: 70px;
+}
+.scroll{
+  border: 5px solid;
+  width: 300px;
+  height: 100px;
+  overflow: scroll;
+}
+a:link{
+  margin-left: 70px;
+  color: black;
+}
+a:visited{
+  color: blue;
+}
+a:hover{
+  color: red;
+}
+a:active{
+  color: purple;
+}

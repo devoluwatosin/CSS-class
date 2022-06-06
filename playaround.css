@@ -1,0 +1,30 @@
+body{
+  background-image: url(./image/1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: white;
+  background-color: black;
+}
+h2{
+  color: beige;
+  background-color: green;
+}
+h3{
+  color: gold;
+  background-color: brown;
+}
+h4{
+  color: pink;
+  background-color: palevioletred;
+}
+h5{
+color: blueviolet;
+background-color: blue
+}
+h6{
+color: orange;
+background-color: orangered;
+}
+p{color: aqua;}

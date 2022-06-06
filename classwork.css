@@ -1,0 +1,28 @@
+body{
+  background-image: url(1x.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: red;
+  background-color: #000;
+}
+h2{
+  color: yellow;
+}
+h3{
+  color: orange;
+}
+h4{
+  color: #000;
+}
+h5{
+  color: blue;
+}
+h6{
+  color: purple;
+}
+p{
+  color: rgb(255,0,255);
+}

@@ -1,0 +1,129 @@
+
+
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-style: inherit;
+  font-variant: small-caps;
+  font-size: large;
+  font-weight: 200;
+}
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: unset;
+  font-variant: small-caps;
+  font-size: larger;
+  font-weight: 300;
+}
+h3{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: medium;
+  font-weight: 400;
+}
+h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  font-variant: small-caps;
+  font-size: small;
+  font-weight: 500;
+}
+h5{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: initial;
+  font-variant: small-caps;
+  font-size: smaller;
+  font-weight: 600;
+}
+h6{
+  text-decoration: overline;
+  text-indent: 1cm;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  direction: rtl;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: x-large;
+  font-weight: 800;
+}
+.wrapper{
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+  border-bottom-color: #006600;
+  border-top-color: #ff00cc;
+}
+
+
+.myptag1{
+  color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: 700;
+  font: 800;
+  
+}
+.myptag{
+  text-shadow: 4px 4px 8px blue;
+  text-transform: uppercase;
+  font-size: larger;
+  font-weight: 700;
+  font-style: oblique;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-variant: inherit;
+}
+.myimage{
+  /* border: 3px dashed red; */
+  height: 100%;
+  width: 100%;
+}
+a:link{
+  color: #000000;
+}
+a:visited{
+  color: #006600;
+}
+a:hover{
+  color: #ffcc00;
+}
+a:active{
+  color: #ff00cc;
+}
+.border{
+  border: 4px solid;
+  border-width: 3px;
+  border-style: dotted;
+  border-radius: 9px;
+}
+.margin1{
+margin-top: 10px;
+margin-bottom: 50px;
+margin-left: 50px;
+}
+.list{
+  list-style-type: lower-roman;
+}
+.list1{
+  list-style-type: square;
+  list-style-image: url(./image/1x.jpg);
+}
+.padding-bottom{
+border: 1px solid red;
+ padding-bottom: 15px;
+padding-top: 15px;
+ padding-left: 50px;
+
+padding: 50px;
+}
+.mycursorimage{
+  cursor: pointer;
+}
+.scroll{
+  border: blue solid ;
+  width: 300px;
+  height: 300px;
+  overflow: scroll;
+}
